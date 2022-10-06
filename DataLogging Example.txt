@@ -1,0 +1,43 @@
+ Data Logging
+=============GPS STATS==============
+
+Age of Satellite: 8133
+No of Satellites: 4
+Age of Altitude: 8133
+Current Altitude in meter(s): 932.00
+GPS HDOP: 2.15
+Age of Speed: 8252
+Speed in MPH: 0.00
+Speed in KMPH: 0.00
+File Exists: 1
+
+=============END=============
+
+
+ Data Logging
+=============GPS STATS==============
+
+Age of Satellite: 26607
+No of Satellites: 4
+Age of Altitude: 26607
+Current Altitude in meter(s): 932.00
+GPS HDOP: 2.15
+File Exists: 1
+
+=============END=============
+
+
+ Data Logging
+=============GPS STATS==============
+
+Age of Satellite: 7264
+No of Satellites: 0
+Age of Altitude: 13470
+Current Altitude in meter(s): 939.40
+GPS HDOP: 99.99
+Age of Speed: 13589
+Speed in MPH: 0.00
+Speed in KMPH: 0.00
+File Exists: 1
+
+=============END=============
