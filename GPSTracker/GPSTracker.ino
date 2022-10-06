@@ -19,8 +19,8 @@ double distanceKm = 0.0;
 const int ADDR_EEPROM = 0;
 const long LEDinterval = 1000; // 1sec
 
-const char* ssid = "LAVA LXX501";
-const char* password = "shreyas12345";
+const char* ssid = "YOUR WIFI NAME";
+const char* password = "YOUR WIFI PASSWORD";
 
 bool isGPSMODE;
 long prevMillis = 0;
